@@ -2,8 +2,8 @@ aiofiles
 bard
 SpeechRecognition
 pornhub-api==0.2.0
-aiohttp 
-asyncio 
+aiohttp==3.8.4
+asyncio==3.4.3
 beautifulsoup4
 daxxhub
 deepai
@@ -17,7 +17,7 @@ pydub
 pycountry
 heroku3
 apscheduler
-motor 
+motor==3.4.3
 numpy
 pillow==9.5.0
 psutil
@@ -32,7 +32,7 @@ pykeyboard
 pyshorteners
 pyrogram==2.0.106
 python-dotenv
-pyyaml==6.0.1
+pyyaml==5.3.1
 requests
 emojis
 speedtest-cli
